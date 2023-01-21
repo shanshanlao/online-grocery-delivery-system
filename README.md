@@ -1,4 +1,4 @@
-This is an undergrad course project for <b> ITEC4220 Database Management Systems </b> at York University in Winter 2022 Semester.
+This was an undergrad course project done in Winter 2022 Semester.
 
  - In collaboration with my teammates Karanvir and Shennaz. 
 
